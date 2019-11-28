@@ -1,0 +1,31 @@
+# Directories to be removed
+- Docker/***
+- dwhelper/***
+- lost+found/***
+- miniconda3/***
+- R/***
+- Zotero/***
+- Trash*/***
+# Hidden Directories to be included
++ .capsis/***
++ .config/***
++ .filezilla/***
++ .icedove/***
++ .mozilla/***
++ .ssh/***
++ .subversion/***
+# Files to be removed
+- *.tmp
+- *.iso
+# Hidden files to be included
++ .emacs
++ .face
++ .gitconfig
++ .gitcookies
++ .pgpass
++ .pypirc
++ .signature_Cirad.txt
+# Remove all other hidden directory or files
+- .*
+# Include all the rest
++ *
