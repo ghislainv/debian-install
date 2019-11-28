@@ -66,3 +66,17 @@ nextcloud-desktop
 gedit
 medit
 redshift
+evince
+gthumb
+pinta
+inkscape
+amule
+filezilla
+pidgin
+tigervnc-viewer
+transmission
+gparted
+audacity
+vlc
+pgadmin4
+pgadmin4-apache2
