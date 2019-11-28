@@ -58,3 +58,7 @@ pandoc-citeproc
 ncdu
 gdebi
 imagemagick
+jabref
+gsl-bin
+libgsl-dev
+rsync
