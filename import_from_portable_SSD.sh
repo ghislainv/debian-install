@@ -3,8 +3,8 @@
 # Script de sauvegarde
 # ghislain
 
-REPERTOIRE_SOURCE="/media/ghislain/Aepyornis"
-REPERTOIRE_DESTINATION="/home/ghislain/"
+REPERTOIRE_SOURCE="/media/ghislain/Aepyornis/"
+REPERTOIRE_DESTINATION="/home/ghislain"
   
 # Sauvegarde
 echo "Import backup to /home/ghislain"
