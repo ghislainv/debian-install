@@ -84,3 +84,6 @@ audacity
 vlc
 pgadmin4
 pgadmin4-apache2
+expect
+jupyter
+
