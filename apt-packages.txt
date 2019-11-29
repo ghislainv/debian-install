@@ -62,7 +62,6 @@ jabref
 gsl-bin
 libgsl-dev
 rsync
-<<<<<<< HEAD
 amule
 greybird-gtk-theme
 bluebird-gtk-theme
