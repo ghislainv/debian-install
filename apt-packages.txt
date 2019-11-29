@@ -62,8 +62,26 @@ jabref
 gsl-bin
 libgsl-dev
 rsync
+<<<<<<< HEAD
 amule
 greybird-gtk-theme
 bluebird-gtk-theme
 blackbird-gtk-theme
+nextcloud-desktop
+gedit
 medit
+redshift
+evince
+gthumb
+pinta
+inkscape
+amule
+filezilla
+pidgin
+tigervnc-viewer
+transmission
+gparted
+audacity
+vlc
+pgadmin4
+pgadmin4-apache2
