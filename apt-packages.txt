@@ -70,6 +70,7 @@ nextcloud-desktop
 gedit
 medit
 redshift
+gtk-redshift
 evince
 gthumb
 inkscape

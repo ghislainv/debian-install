@@ -25,7 +25,7 @@
 + .pgpass
 + .pypirc
 + .signature_Cirad.txt
-# Remove all other hidden directory or files
-- .*
+# Remove hidden directory or files (use anchor "/")
+- /.*
 # Include all the rest
 + *
