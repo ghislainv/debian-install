@@ -62,7 +62,7 @@ jabref
 gsl-bin
 libgsl-dev
 rsync
-nextcloud-desktop
-gedit
-medit
-redshift
+amule
+greybird-gtk-theme
+bluebird-gtk-theme
+blackbird-gtk-theme
