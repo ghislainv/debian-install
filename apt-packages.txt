@@ -66,3 +66,4 @@ amule
 greybird-gtk-theme
 bluebird-gtk-theme
 blackbird-gtk-theme
+medit
