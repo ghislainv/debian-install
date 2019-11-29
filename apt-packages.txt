@@ -72,7 +72,6 @@ medit
 redshift
 evince
 gthumb
-pinta
 inkscape
 amule
 filezilla
